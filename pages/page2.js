@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
 import Router from 'next/router';
-import callApi from '../src/api';
+import { callApi } from '../src/api';
 
 
 export default class page2 extends Component {
